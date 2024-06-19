@@ -6,6 +6,10 @@ public class PlayerHandler : MonoBehaviour
 {
     [SerializeField] float striveSpeed;
     [SerializeField] Animator _anim;
+    [Header("Shooting")]
+    [SerializeField] GameObject _food;
+    [SerializeField] GameObject _shooter;
+    [SerializeField] AudioClip _shootAudio;
     bool isMoving;
     Rigidbody _rb;
     float _input;
@@ -32,6 +36,8 @@ public class PlayerHandler : MonoBehaviour
     }
     public void Throw()
     {
+        var projectile = Instantiate(_food,_shooter.transform.position, Quaternion.identity);
+        _shooter.GetComponent<AudioSource>().PlayOneShot(_shootAudio);
         _anim.SetTrigger("Throw");
     }
 }

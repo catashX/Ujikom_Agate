@@ -21,4 +21,17 @@ public class ProjectileHandler : MonoBehaviour
     {
         Destroy(gameObject);
     }
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Enemy"))
+        {
+            EnemuHandler handler = null;
+            other.TryGetComponent<EnemuHandler>(out handler);
+            if (handler != null)
+            {
+                handler.Hit();
+                killProjectile();
+            }
+        }
+    }
 }

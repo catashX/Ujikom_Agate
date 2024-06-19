@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|d:\\unityproject\\agate-learn\\projectagate\\ujikom_agate\\assets\\assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\spawnerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|d:\\unityproject\\agate-learn\\projectagate\\ujikom_agate\\assets\\assets\\scripts\\enemuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\enemuhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\projectilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\projectilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\playerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\playerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\gamestatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\gamestatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\uihandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\assets\\assets\\scripts\\hpbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203BCE6E-AD19-017F-97AC-474F17ED5403}|Assembly-CSharp.csproj|solutionrelative:assets\\assets\\scripts\\hpbarmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpawnerScript.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\SpawnerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\SpawnerScript.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\SpawnerScript.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\SpawnerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:22:54.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "scoreUI.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\scoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\scoreUI.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\scoreUI.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\scoreUI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T04:15:34.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "scoreManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\scoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\scoreManager.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\scoreManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\scoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:53:49.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameStateData.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\GameStateData.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\GameStateData.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\GameStateData.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\GameStateData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:52:47.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HPBarManager.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\HPBarManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\HPBarManager.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\HPBarManager.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\HPBarManager.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:33:46.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemuHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\EnemuHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\EnemuHandler.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\EnemuHandler.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\EnemuHandler.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T03:22:54.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectileHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\ProjectileHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\ProjectileHandler.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\ProjectileHandler.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\ProjectileHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:57:00.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\PlayerHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\PlayerHandler.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\PlayerHandler.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\PlayerHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T02:27:52.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIHandler.cs",
+              "DocumentMoniker": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\UIHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Assets\\Scripts\\UIHandler.cs",
+              "ToolTip": "D:\\UnityProject\\Agate-Learn\\ProjectAgate\\Ujikom_Agate\\Assets\\Assets\\Scripts\\UIHandler.cs",
+              "RelativeToolTip": "Assets\\Assets\\Scripts\\UIHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T01:58:37.175Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

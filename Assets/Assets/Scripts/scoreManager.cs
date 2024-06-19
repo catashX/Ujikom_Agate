@@ -7,6 +7,8 @@ public class scoreManager : MonoBehaviour
     [SerializeField] Camera mainCam;
     [SerializeField] Camera GOCam;
     [SerializeField] GameStateData _data;
+    [SerializeField] AudioSource _source;
+    [SerializeField] AudioClip _clip;
     bool isGameOver;
     private void Start()
     {
@@ -31,11 +33,12 @@ public class scoreManager : MonoBehaviour
 
     void GameOver()
     {
+        _source.PlayOneShot(_clip);
         mainCam.enabled = false;
         GOCam.enabled = true;
         isGameOver = true;
         FindObjectOfType<PlayerHandler>().GameOver();
         FindObjectOfType<UIHandler>().GameOver();
-        FindObjectOfType<SpawnerScript>().GameOver();
+        FindObjectOfType<SpawnerScript>().GameOver();     
     }
 }

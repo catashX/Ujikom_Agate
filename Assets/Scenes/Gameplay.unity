@@ -2671,6 +2671,8 @@ MonoBehaviour:
   mainCam: {fileID: 518203122}
   GOCam: {fileID: 92710138}
   _data: {fileID: 11400000, guid: facfddd3cff80004caa99a7bcd2e30f2, type: 2}
+  _source: {fileID: 309269996}
+  _clip: {fileID: 8300000, guid: 821abbd1f84b1f840a77f7944f690132, type: 3}
 --- !u!1001 &1476645465620491258
 PrefabInstance:
   m_ObjectHideFlags: 0

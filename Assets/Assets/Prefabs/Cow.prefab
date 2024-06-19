@@ -229,7 +229,7 @@ MonoBehaviour:
   _hitSFX: {fileID: 8300000, guid: aebae0e89d575dc43ae340319487ef87, type: 3}
   _hitSource: {fileID: 2660853587524756811}
   _speed: 3
-  _HP: 250
+  _HP: 300
   _score: 5
 --- !u!1001 &1457294507971018288
 PrefabInstance:

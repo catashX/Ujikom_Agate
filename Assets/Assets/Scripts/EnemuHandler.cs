@@ -17,10 +17,10 @@ public class EnemuHandler : MonoBehaviour
     GameObject thisHPBar;
     private void Start()
     {
+        _BarCanvas = GameObject.FindGameObjectWithTag("placementBar").transform;
         thisHPBar = Instantiate(_Bar, _BarCanvas);
         _barManager = thisHPBar.GetComponent<HPBarManager>();
         _barManager.set(this.transform);
-        _BarCanvas = GameObject.FindGameObjectWithTag("placementBar").transform;
         _manager = FindObjectOfType<scoreManager>();
         GetComponent<Rigidbody>().velocity = new Vector3(0, 0, -1 * _speed);
         currentHP = 0;
@@ -32,6 +32,12 @@ public class EnemuHandler : MonoBehaviour
         if(currentHP >= _HP) kill();
         _barManager.setScale(Mathf.Clamp(currentHP/_HP,0,1));
         _hitSource.PlayOneShot(_hitSFX);
+    }
+
+    public void banish()
+    {
+        Destroy(thisHPBar);
+        Destroy(gameObject);
     }
 
     void kill()

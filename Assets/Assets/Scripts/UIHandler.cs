@@ -13,6 +13,8 @@ public class UIHandler : MonoBehaviour
     [SerializeField] GameState _state;
     [SerializeField] GameObject _pausePanel;
     [SerializeField] bool isPauseMenu;
+    [SerializeField] GameObject gameoverPanel;
+    [SerializeField] GameObject placementBar;
     private void Start()
     {
         changeState(GameState.played);
@@ -47,5 +49,16 @@ public class UIHandler : MonoBehaviour
             if (state == GameState.paused) Time.timeScale = 0f;
             else Time.timeScale = 1f;
         }
+    }
+
+    public void GameOver()
+    {
+        gameoverPanel.SetActive(true);
+        placementBar.SetActive(false);
+    }
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }

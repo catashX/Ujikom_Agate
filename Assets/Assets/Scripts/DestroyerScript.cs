@@ -8,7 +8,7 @@ public class DestroyerScript : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Enemy"))
         {
-            Destroy(other.gameObject);
+            other.GetComponent<EnemuHandler>().banish();
         }
     }
 }

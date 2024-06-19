@@ -48,5 +48,6 @@ public class PlayerHandler : MonoBehaviour
     public void GameOver()
     {
         _anim.SetTrigger("GameOver");
+        canMove = false;
     }
 }
